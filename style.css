@@ -24,7 +24,7 @@ body{
 #container{
     min-width: 30.9rem;
     max-width: 30.9rem;
-    margin: 15rem auto;
+    margin: 25rem auto;
 }
 .sedans{
     background-color: var(--bright-orange);
